@@ -1,0 +1,17 @@
+{
+  "name": "anonymise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "papaparse": "^5.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
