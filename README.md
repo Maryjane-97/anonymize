@@ -1,2 +1,1 @@
-# anonymize
-javascript, csv file
+# Rider deletion
